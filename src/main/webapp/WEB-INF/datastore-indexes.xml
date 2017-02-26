@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<datastore-indexes autoGenerate="false">
+    <datastore-index kind="6x49" ancestor="true">
+        <property name="__key__" direction="desc"/>
+    </datastore-index>
+    <datastore-index kind="6x49" ancestor="false">
+        <property name="__key__" direction="desc"/>
+    </datastore-index>
+    <datastore-index kind="6x45" ancestor="true">
+        <property name="__key__" direction="desc"/>
+    </datastore-index>
+    <datastore-index kind="6x45" ancestor="false">
+        <property name="__key__" direction="desc"/>
+    </datastore-index>
+    <datastore-index kind="5x36" ancestor="true">
+        <property name="__key__" direction="desc"/>
+    </datastore-index>
+    <datastore-index kind="5x36" ancestor="false">
+        <property name="__key__" direction="desc"/>
+    </datastore-index>
+</datastore-indexes>
